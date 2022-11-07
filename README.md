@@ -1,1 +1,5 @@
-# thayllasant
+# Thaylla de Santana
+[![Linkedin Badge](https://img.shields.io/badge/-Thaylla%20de%20Santana-3352ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzocsantos18/)](https://www.linkedin.com/in/thaylla-de-santana-894b42236) [![Gmail Badge](https://img.shields.io/badge/-thaylla.santana.ti@gmail.com-ff1c51?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thaylla.santana.ti@gmail.com)](mailto:thaylla.santana.ti@gmail.com)
+
+- 👨‍💻 Atualmente cursando Sistemas para Internet - FATEC RL 
+- 💻 Desenvolvedora Web e Mobile
